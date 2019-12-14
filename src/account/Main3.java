@@ -41,13 +41,13 @@ public class Main3 {
             System.out.println(s.toString());
         }
 
-//        santanderAccount.deposit(10);
-//        santanderAccount.deposit(10);
-//        santanderAccount.deposit(10);
-//        santanderAccount.deposit(1042);
-//        santanderAccount.deposit(1021);
-//        santanderAccount.withdraw(2342);
-//        santanderAccount.withdraw(2342);
-//        santanderAccount.withdraw(2342);
+        santanderAccount.deposit(10);
+        santanderAccount.deposit(10);
+        santanderAccount.deposit(10);
+        santanderAccount.deposit(1042);
+        santanderAccount.deposit(1021);
+        santanderAccount.withdraw(2342);
+        santanderAccount.withdraw(2342);
+        santanderAccount.withdraw(2342);
     }
 }
